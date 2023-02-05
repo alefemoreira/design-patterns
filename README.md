@@ -2,9 +2,12 @@
 
 ## Summary
 
-1. [How to execute the examples](#How-to-Execute-the-Examples)
-2. [Strategy Pattern](#strategy-pattern)
-3. [Observer Pattern](#observer-pattern)
+1. [How to execute the examples](#1-How-to-Execute-the-Examples)
+2. [Strategy Pattern](#2-strategy-pattern)
+3. [Observer Pattern](#3-observer-pattern)
+4. [Decorator Pattern](#4-decorator-pattern)
+5. [Factory Pattern](#5-factory-pattern)
+6. [Command Pattern](#6-command-pattern)
 
 # 1 How to Execute the Examples
 
@@ -23,3 +26,9 @@ Strategy Pattern make objects open do change inside the runtime. So, instead to 
 Inside [strategy-pattern/](./strategy-pattern) directory, you can see two implementation examples of Strategy Pattern.
 
 # 3 Observer Pattern
+
+# 4 Decorator Pattern
+
+# 5 Factory Pattern
+
+# 6 Command Pattern

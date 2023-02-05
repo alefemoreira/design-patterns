@@ -4,13 +4,13 @@ export interface WeaponBehavior {
 
 export class KnifeBehavior implements WeaponBehavior {
   useWeapon(): void {
-    console.log("Cutting");
+    console.log("cutting");
   }
 }
 
 export class AxeBehavior implements WeaponBehavior {
   useWeapon(): void {
-    console.log("Chopping");
+    console.log("chopping");
   }
 }
 
